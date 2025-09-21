@@ -1,3 +1,7 @@
+import sys,math
+import random
+input=sys.stdin.readline
+
 pr=[2,325,9375,28178,450775,9780504,1795265022]
 
 # https://github.com/kth-competitive-programming/kactl/blob/main/content/number-theory/MillerRabin.h
